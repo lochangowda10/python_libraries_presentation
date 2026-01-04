@@ -1,13 +1,10 @@
 # Python Libraries Self-Learning Activity
 
 **Author:** Lochan Gowda T M  
-**Roll Number:** 1BM25AD056-T
-
-**Course:** B.Tech - Artificial Intelligence & Data Science (First Year)  
-
-**Date:** January 2026
-
-**Tutor:** Pramod Sir ,Department of AI & DS
+**Roll Number:** 1BM25AD056-T    
+**Course:** B.Tech - Artificial Intelligence & Data Science (First Year)     
+**Tutor:** Pramod Sir ,Department of AI & DS    
+**Date:** January 2026   
 ---
 
 ## 📚 Project Overview
