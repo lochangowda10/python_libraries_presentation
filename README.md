@@ -2,8 +2,11 @@
 
 **Author:** Lochan Gowda T M  
 **Roll Number:** 1BM25AD056-T
+
 **Course:** B.Tech - Artificial Intelligence & Data Science (First Year)  
-**Date:** December 2025
+
+**Date:** January 2026
+
 **Tutor:** Pramod Sir ,Department of AI & DS
 ---
 
