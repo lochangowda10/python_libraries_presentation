@@ -4,7 +4,7 @@
 **Roll Number:** 1BM25AD056-T
 **Course:** B.Tech - Artificial Intelligence & Data Science (First Year)  
 **Date:** December 2025
-
+**Tutor:** Pramod Sir ,Department of AI & DS
 ---
 
 ## 📚 Project Overview
@@ -386,7 +386,8 @@ Python's strength lies in its vast ecosystem of powerful, easy-to-use libraries 
 
 **Name:** Lochan Gowda T M
 **Roll Number:** 1BM25AD056-T  
-**Course:** B.Tech - Artificial Intelligence & Data Science  
+**Course:** B.Tech - Artificial Intelligence & Data Science 
+**Guide:** Pramod Sir
 **Institution:** BMS College of Engineering 
 **Year:** First Year  
 **Date:** December 2025
@@ -407,7 +408,7 @@ For any questions about this project or collaboration opportunities:
 
 ## ⭐ Acknowledgments
 
-- Special thanks to our tutor for assigning this self-learning activity.
+- Special thanks to our tutor Pramod sir for assigning this self-learning activity.
 - Python community for excellent documentation and resources.
 - Open-source contributors who maintain these amazing libraries.
 
@@ -427,7 +428,7 @@ It helps others discover this project and motivates continued learning and shari
 
 ---
 
-**Last Updated:** December 2025
+**Last Updated:** Janauary 2026
 
 ---
 
